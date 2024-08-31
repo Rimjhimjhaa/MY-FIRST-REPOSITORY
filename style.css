@@ -1,0 +1,24 @@
+h1{
+    font-size: 50px;
+    color: aqua;
+    margin: 5px ;
+}
+#dhoni{
+    color:red
+  }
+  #abd{
+    color:teal
+  }
+  .csk{
+    background-color:yellow
+  }
+
+  .rcb{
+    background-color:rgb(182, 65, 65)
+  }
+  #dhoni{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  }
+  .mi{
+    background-color: brown;
+  }
